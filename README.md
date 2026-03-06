@@ -2,6 +2,7 @@
 **Economist | Professor | Expert**
 
 ---
+![Richard Max Melstrom](https://media.licdn.com/dms/image/v2/C5603AQGoYzryxNDJVw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1650919615595?e=2147483647&v=beta&t=y8TF9EdXvL46icIqBK9yGN-haBtaHzy4NlqLHK_zB-Q)
 
 ## About Me
 I am an economist with expertise in valuation and damage measurement. My work is driven by economic theory, empirical methods, and data analysis. I have published 63 peer-reviewed articles in high-impact peer-reviewed journals.
