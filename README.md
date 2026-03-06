@@ -1,30 +1,36 @@
 # Richard "Max" Melstrom, PhD
-**Endowed Associate Professor | School of Environmental Sustainability**  
-**Loyola University Chicago**
+**Economist | Endowed Professor | Scholar**
 
 ---
 
 ### About Me
-I am an environmental economist focused on measuring the value of natural resources and recreational experiences. My research aims to provide policymakers and natural resource managers with quantifiable data to make informed decisions about environmental issues, conservation, and restoration.
+I am an economist with expertise in valuation and damage measurement. My work is driven by economic theory, empirical methods, and data analysis. I have published 63 peer-reviewed articles in high-impact peer-reviewed journals.
 
-### Research Interests
-*   **Environmental Valuation**: Quantifying non-market values, such as recreational fishing and birding.
-*   **Conservation Economics**: Studying the effects of the Endangered Species Act and wildlife conservation.
-*   **Environmental Justice**: Examining inequitable access to environmental quality and the effects of restoration on coastal communities.
-*   **Resource Management**: Evaluating trade-offs in land use and the economic impact of environmental damage.
+I am a scholar who values clear and concise communication. I translate complex economic findings into accessible language. I prioritize transparent reasoning and defensible conclusions over advocacy.
 
-### Teaching & Mentorship
-I develop and manage the **Environmental Economics and Sustainability** major and minor at Loyola. I am passionate about mentoring both undergraduate and graduate students in applied research projects.
+I am an Endowed Professor at Loyola University Chicago, where I maintain an active research and training program. I value one-on-one mentoring and regularly supervise independent projects for students. Many of these projects have converted to peer-reviewed articles, several of which went on to win journal awards, besting others written by career professionals or other students. I developed and manage the **Environmental Economics and Sustainability** major at Loyola. 
 
-### Recent Publications
-*   *Greenway development and gentrification* (2025), Southern Economic Journal.
-*   *A Zonal RUM Model to Value Recreation Sites with Aggregate Visitation Data* (2024), Land Economics.
-*   *Economic Benefits from Restoration Actions in Coastal Communities* (2024), Water Economics and Policy.
+## Academic Qualifications
+
+### Education
+- **Ph.D., Economics** | Michigan State University, 2012  
+  Dual major: Economics and Agricultural, Food & Resource Economics  
+  Dissertation: Best Dissertation Award, Department of Agricultural, Food & Resource Economics
+- **M.A., Economics** | Michigan State University, 2008
+- **B.A., Economics & Business** | Kalamazoo College, 2007  
+  Eugene P. Stermer Award in Public Administration
+
+### Academic Appointments
+- **Endowed Professor** | Loyola University Chicago, School of Environmental Sustainability, 2026–Present
+- **Endowed Associate Professor** | Loyola University Chicago, School of Environmental Sustainability, 2021–2026
+- **Endowed Assistant Professor** | Loyola University Chicago, School of Environmental Sustainability, 2017–2021
+- **Assistant Professor** | Oklahoma State University, Department of Agricultural Economics, 2014–2017
+- **Assistant Professor** | Salisbury University, Departments of Economics and Environmental Studies, 2012–2014
 
 ### Contact Information
 - **Email**: [rmelstrom@luc.edu](mailto:rmelstrom@luc.edu)
 - **Office**: BVM Hall 424, Lake Shore Campus
-- **Profiles**: [Google Scholar](https://scholar.google.com/citations?user=cF6IkJQAAAAJ&hl=en) | [Loyola Research Portal](https://scholars.luc.edu/en/persons/richard-melstrom/)
+- **Profiles**: [Google Scholar](https://scholar.google.com/citations?user=cF6IkJQAAAAJ&hl=en) | [Loyola Research Portal]([https://scholars.luc.edu/en/persons/richard-melstrom/](https://www.luc.edu/sustainability/about/ourpeople/directory/melstrommax.shtml))
 
 ---
 *“If we don’t measure values, they’re too easy to ignore.”*
