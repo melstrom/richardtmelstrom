@@ -14,11 +14,8 @@ I am an Endowed Professor at Loyola University Chicago, where I maintain an acti
 
 ### Education
 - **Ph.D., Economics** | Michigan State University, 2012  
-  Dual major: Economics and Agricultural, Food & Resource Economics  
-  Dissertation: Best Dissertation Award, Department of Agricultural, Food & Resource Economics
 - **M.A., Economics** | Michigan State University, 2008
 - **B.A., Economics & Business** | Kalamazoo College, 2007  
-  Eugene P. Stermer Award in Public Administration
 
 ### Academic Appointments
 - **Endowed Professor** | Loyola University Chicago, School of Environmental Sustainability, 2026–Present
@@ -26,6 +23,13 @@ I am an Endowed Professor at Loyola University Chicago, where I maintain an acti
 - **Endowed Assistant Professor** | Loyola University Chicago, School of Environmental Sustainability, 2017–2021
 - **Assistant Professor** | Oklahoma State University, Department of Agricultural Economics, 2014–2017
 - **Assistant Professor** | Salisbury University, Departments of Economics and Environmental Studies, 2012–2014
+
+### Professional Recognition
+- Deputy Academic Editor, *Cogent Economics & Finance*, 2025–Present
+- Editor and Managing Editor, *Agricultural and Resource Economics Review*, 2019–2021
+- Emerging Scholar Award, Southern Agricultural Economics Association, 2016
+- Secretary/Treasurer, AAEA Land, Water and Environmental Economics Section, 2021–2024
+- Reviewer for 30+ academic journals including *JEEM*, *AJAE*, *Environmental and Resource Economics*
 
 ### Contact Information
 - **Email**: [rmelstrom@luc.edu](mailto:rmelstrom@luc.edu)
