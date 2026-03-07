@@ -3,6 +3,7 @@
 # Richard "Max" Melstrom, PhD
 
 <p>Economist | Professor | Expert</p>
+
 ---
 
 ## About Me
