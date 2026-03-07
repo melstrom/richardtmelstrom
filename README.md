@@ -2,7 +2,7 @@
 
 # Richard "Max" Melstrom, PhD  
 
-<p style="font-size:1.1em;">Economist | Professor | Expert</p>
+Economist | Professor | Expert
 
 ---
 
