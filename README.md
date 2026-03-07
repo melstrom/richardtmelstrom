@@ -2,8 +2,7 @@
 
 # Richard "Max" Melstrom, PhD
 
-**Economist | Professor | Expert**
-
+<p>Economist | Professor | Expert</p>
 ---
 
 ## About Me
@@ -13,7 +12,7 @@ I value clear and concise communication and specialize in translating complex ec
 
 I am an Endowed Professor at Loyola University Chicago, where I maintain an active research and training program. I value one-on-one mentoring and regularly supervise independent student projects. Many of these projects have converted to peer-reviewed articles, several of which have won journal awards. I also developed and manage the Environmental Economics and Sustainability major at Loyola.
 
-## Academic Qualifications
+## Qualifications
 
 ### Education
 - Ph.D., Economics — Michigan State University, 2012  
@@ -21,11 +20,11 @@ I am an Endowed Professor at Loyola University Chicago, where I maintain an acti
 - B.A., Economics & Business — Kalamazoo College, 2007  
 
 ### Academic Appointments
-- Endowed Professor — Loyola University Chicago, School of Environmental Sustainability, 2026–Present  
-- Endowed Associate Professor — Loyola University Chicago, School of Environmental Sustainability, 2021–2026  
-- Endowed Assistant Professor — Loyola University Chicago, School of Environmental Sustainability, 2017–2021  
-- Assistant Professor — Oklahoma State University, Department of Agricultural Economics, 2014–2017  
-- Assistant Professor — Salisbury University, Departments of Economics and Environmental Studies, 2012–2014  
+- Endowed Professor — Loyola University Chicago, 2026–Present  
+- Endowed Associate Professor — Loyola University Chicago, 2021–2026  
+- Endowed Assistant Professor — Loyola University Chicago, 2017–2021  
+- Assistant Professor — Oklahoma State University, 2014–2017  
+- Assistant Professor — Salisbury University, 2012–2014  
 
 ### Professional Recognition
 - Deputy Academic Editor, *Cogent Economics & Finance*, 2025–Present  
