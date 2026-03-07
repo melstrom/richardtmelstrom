@@ -13,6 +13,8 @@ I value clear and concise communication and specialize in translating complex ec
 
 I am an Endowed Professor at Loyola University Chicago, where I maintain an active research and training program. I perform one-on-one mentoring and regularly supervise independent student projects. Many of these projects have converted to peer-reviewed articles, several of which have won journal awards. I also developed and manage the Environmental Economics & Sustainability major at Loyola.
 
+---
+
 ## Qualifications
 
 ### Education
@@ -33,6 +35,8 @@ I am an Endowed Professor at Loyola University Chicago, where I maintain an acti
 - Emerging Scholar Award, Southern Agricultural Economics Association, 2016  
 - Secretary/Treasurer, AAEA Land, Water and Environmental Economics Section, 2021–2024
 - Best Dissertation Award, Department of Agricultural, Food and Resource Economics, Michigan State Univesrity, 2012
+
+---
 
 ## Contact Information
 - **Email**: [rmelstrom@luc.edu](mailto:rmelstrom@luc.edu)
