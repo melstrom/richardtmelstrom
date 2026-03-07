@@ -6,6 +6,7 @@
 
 ---
 
+
 ## About Me
 I am an economist with expertise in valuation and damage measurement. My work is driven by economic theory, empirical methods, and data analysis. I have published 63 peer-reviewed articles in high-impact academic journals.
 
