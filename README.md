@@ -11,7 +11,7 @@ I am an economist with expertise in valuation and damage measurement. My work is
 
 I value clear and concise communication and specialize in translating complex economic findings into accessible language. My work prioritizes transparent reasoning and defensible conclusions over advocacy.
 
-I am an Endowed Professor at Loyola University Chicago, where I maintain an active research and training program. I perform one-on-one mentoring and regularly supervise independent student projects. Many of these projects have converted to peer-reviewed articles, several of which have won journal awards. I also developed and manage the Environmental Economics & Sustainability major at Loyola.<br>
+I am an Endowed Professor at Loyola University Chicago, where I maintain an active research and training program. I perform one-on-one mentoring and regularly supervise independent student projects. Many of these projects have converted to peer-reviewed articles, several of which have won journal awards. I also developed and manage the Environmental Economics & Sustainability major at Loyola.<br><br>
 
 ---
 <br>
@@ -35,7 +35,7 @@ I am an Endowed Professor at Loyola University Chicago, where I maintain an acti
 - Editor and Managing Editor, *Agricultural and Resource Economics Review*, 2019–2021  
 - Emerging Scholar Award, Southern Agricultural Economics Association, 2016  
 - Secretary/Treasurer, AAEA Land, Water and Environmental Economics Section, 2021–2024
-- Best Dissertation Award, Department of Agricultural, Food and Resource Economics, Michigan State Univesrity, 2012<br>
+- Best Dissertation Award, Department of Agricultural, Food and Resource Economics, Michigan State Univesrity, 2012<br><br>
 
 
 ---
