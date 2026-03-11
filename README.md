@@ -11,7 +11,7 @@ letter-spacing:0.04em;
 ">
 <a href="https://melstrom.github.io/home/">Home</a>
 <a href="Melstrom CV.pdf">CV</a>
-<a href="/research/">Research</a>
+<a href="/home/research/">Research</a>
 <a href="#training">Training</a>
 </div>
 
