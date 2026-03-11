@@ -33,6 +33,8 @@ permalink: /training/
   <a href="/home/training/">Training</a>
 </div>
 
+## Training
+
 I am committed to mentoring applied economists. I regularly supervise graduate thesis projects and undergraduate independent research. The goal of most projects is to produce a publishable research paper. The students I have worked with have transitioned into economic consultancies and top PhD programs.
 
 ---
