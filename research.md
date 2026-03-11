@@ -5,7 +5,6 @@
   <a href="./home/training/">Training</a>
 </div>
 
-
 ---
 title: Research
 permalink: /research/
