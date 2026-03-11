@@ -5,6 +5,7 @@
   <a href="https://melstrom.github.iotraining/">Training</a>
 </div>
 
+
 ---
 title: Home
 permalink: /
