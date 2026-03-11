@@ -33,6 +33,11 @@ permalink: /training/
   <a href="/home/training/">Training</a>
 </div>
 
+I am committed to mentoring applied economists. I regularly supervise graduate thesis projects and undergraduate independent research. The goal of most projects is to produce a publishable research paper. The students I have worked with have transitioned into economic consultancies and top PhD programs.
+
+---
+<br>
+
 ## Graduate School Advice
 
 A college degree costs a lot time and money, and if done right should help one find success on the job market and in a future career. No graduate school required. So when I was a college sophomore the thought of going on to graduate school did not hold much appeal. That said, when I set off for the London School of Economics (LSE) for a junior year abroad, I did not have a particular career in mind. LSE’s lecture courses had weekly recitations taught by graduate students, though, so I received some first-hand opportunities to learn about research, research methods, and graduate school experiences. What I learned seemed interesting, and as I laid the groundwork my senior thesis at Kalamazoo College, I concluded that a career in research would be a good fit for me.
