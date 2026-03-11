@@ -2,7 +2,7 @@
   <a href="https://melstrom.github.io">Home</a>
   <a href="./Melstrom%20CV.pdf">CV</a>
   <a href="https://melstrom.github.ioresearch/">Research</a>
-  <a href="home/training/">Training</a>
+  <a href="./training/">Training</a>
 </div>
 
 <img src="https://media.licdn.com/dms/image/v2/D5603AQH8vPSylXsIqA/profile-displayphoto-crop_800_800/B56ZsqEez9IEAM-/0/1765937378397?e=1774483200&v=beta&t=IvJYmIzWJrHGL0wWhK-mBCHBcWCQkjcFJ9cEbETAOAc" align="right" width="256" style="margin-left: 20px; margin-bottom: 10px;">
