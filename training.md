@@ -15,7 +15,7 @@ permalink: /training/
   <a href="/home/" style="text-decoration: none; color: inherit;">Home</a>
   <a href="/home/Melstrom CV.pdf" style="text-decoration: none; color: inherit;">CV</a>
   <a href="/home/research/" style="text-decoration: none; color: inherit;">Research</a>
-  <a href="/home/teaching/" style="text-decoration: none; color: inherit;">Training</a>
+  <a href="/home/training/" style="text-decoration: none; color: inherit;">Training</a>
 </div>
 
 ---
