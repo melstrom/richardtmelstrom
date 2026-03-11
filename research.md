@@ -33,6 +33,9 @@ permalink: /research/
   <a href="/home/training/">Training</a>
 </div
 
+---
+<br>
+
 I am an environmental economist specializing in the valuation of environmental impacts, regulations and policy. My work is characterized by the use of economic theory and econometric/statistical methods to quantify the welfare effects of policy changes and environmental externalities. My scholarship supports cost-benefit analysis and damage assessment.
 
 ---
