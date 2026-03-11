@@ -1,7 +1,17 @@
-<div style="font-size:1.05em; margin-bottom:20px;">
-<a href="./">Home</a> |
-<a href="docs/Melstrom CV.pdf">CV</a> |
-<a href="#research">Research</a> |
+<div style="
+display:flex;
+justify-content:center;
+gap:45px;
+font-size:1.08em;
+margin-top:5px;
+margin-bottom:18px;
+padding-bottom:10px;
+border-bottom:1px solid #e5e5e5;
+letter-spacing:0.04em;
+">
+<a href="./">Home</a>
+<a href="docs/Melstrom CV.pdf">CV</a>
+<a href="#research">Research</a>
 <a href="#training">Training</a>
 </div>
 
