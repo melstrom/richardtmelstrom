@@ -1,7 +1,6 @@
 ---
 permalink: /
 ---
-
 <style>
 .navbar {
   display: flex;
