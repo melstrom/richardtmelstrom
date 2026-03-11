@@ -28,9 +28,9 @@ permalink: /research/
 
 <div class="navbar">
   <a href="/home/">Home</a>
-  <a href="/Melstrom CV.pdf">CV</a>
-  <a href="/research/">Research</a>
-  <a href="/training/">Training</a>
+  <a href="/home/Melstrom CV.pdf">CV</a>
+  <a href="/home/research/">Research</a>
+  <a href="/home/training/">Training</a>
 </div>
 
 ## Selected Peer-Reviewed Publications
