@@ -10,8 +10,7 @@ permalink: /training/
 </div>
 
 ---
-</div>
-
+<br>
 
 ## Graduate School Advice
 
