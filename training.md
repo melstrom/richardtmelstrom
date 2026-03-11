@@ -1,30 +1,36 @@
 ---
 permalink: /training/
 ---
-<div style="
+
+<style>
+.navbar {
   display: flex;
   justify-content: center;
   gap: 45px;
   font-size: 1.08em;
   font-family: sans-serif;
-  padding: 6px 0;       /* space above and below the links */
-  border-bottom: 1px solid #e5e5e5; /* single horizontal line */
-  margin-bottom: 15px;  /* extra space below the bar */
-">
-  <a href="/home/" style="text-decoration:none; color:#333; transition: color 0.2s;">Home</a>
-  <a href="/home/Melstrom CV.pdf" style="text-decoration:none; color:#333; transition: color 0.2s;">CV</a>
-  <a href="/home/research/" style="text-decoration:none; color:#333; transition: color 0.2s;">Research</a>
-  <a href="/home/teaching/" style="text-decoration:none; color:#333; transition: color 0.2s;">Training</a>
-</div>
+  padding: 6px 0;             /* vertical padding */
+  border-bottom: 1px solid #e5e5e5; /* bottom line only */
+  margin-bottom: 15px;        /* space below the bar */
+}
 
-<script>
-  // Add subtle hover effect
-  const links = document.querySelectorAll('div a');
-  links.forEach(link => {
-    link.addEventListener('mouseenter', () => link.style.color = '#007acc');
-    link.addEventListener('mouseleave', () => link.style.color = '#333');
-  });
-</script>
+.navbar a {
+  text-decoration: none;
+  color: #333;
+  transition: color 0.2s;
+}
+
+.navbar a:hover {
+  color: #007acc;  /* subtle hover highlight */
+}
+</style>
+
+<div class="navbar">
+  <a href="/home/">Home</a>
+  <a href="/home/Melstrom CV.pdf">CV</a>
+  <a href="/home/research/">Research</a>
+  <a href="/home/teaching/">Training</a>
+</div>
 
 
 ## Graduate School Advice
