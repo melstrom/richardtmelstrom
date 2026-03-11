@@ -7,15 +7,35 @@ permalink: /
   justify-content: center;
   gap: 45px;
   font-size: 1.08em;
-  margin: 0;          /* Remove top/bottom margin */
-  padding: 4px 0;     /* Minimal vertical padding */
+  margin: 0;
+  padding: 4px 0;
   border-bottom: 1px solid #e5e5e5;
   letter-spacing: 0.04em;
+  font-family: sans-serif;
 ">
-  <a href="/home/" style="text-decoration: none; color: inherit;">Home</a>
-  <a href="/home/Melstrom CV.pdf" style="text-decoration: none; color: inherit;">CV</a>
-  <a href="/home/research/" style="text-decoration: none; color: inherit;">Research</a>
-  <a href="/home/training/" style="text-decoration: none; color: inherit;">Training</a>
+  <a href="/home/" style="
+      text-decoration: none;
+      color: #333;
+      transition: color 0.2s ease;
+  " onmouseover="this.style.color='#007acc'" onmouseout="this.style.color='#333'">Home</a>
+
+  <a href="/home/Melstrom CV.pdf" style="
+      text-decoration: none;
+      color: #333;
+      transition: color 0.2s ease;
+  " onmouseover="this.style.color='#007acc'" onmouseout="this.style.color='#333'">CV</a>
+
+  <a href="/home/research/" style="
+      text-decoration: none;
+      color: #333;
+      transition: color 0.2s ease;
+  " onmouseover="this.style.color='#007acc'" onmouseout="this.style.color='#333'">Research</a>
+
+  <a href="/home/teaching/" style="
+      text-decoration: none;
+      color: #333;
+      transition: color 0.2s ease;
+  " onmouseover="this.style.color='#007acc'" onmouseout="this.style.color='#333'">Training</a>
 </div>
 
 <img src="https://media.licdn.com/dms/image/v2/D5603AQH8vPSylXsIqA/profile-displayphoto-crop_800_800/B56ZsqEez9IEAM-/0/1765937378397?e=1774483200&v=beta&t=IvJYmIzWJrHGL0wWhK-mBCHBcWCQkjcFJ9cEbETAOAc" align="right" width="256" style="margin-left: 20px; margin-bottom: 10px;">
