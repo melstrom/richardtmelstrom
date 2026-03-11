@@ -10,7 +10,7 @@ border-bottom:1px solid #e5e5e5;
 letter-spacing:0.04em;
 ">
 <a href="https://melstrom.github.io/home/">Home</a>
-<a href="docs/Melstrom CV.pdf">CV</a>
+<a href="Melstrom CV.pdf">CV</a>
 <a href="#research">Research</a>
 <a href="#training">Training</a>
 </div>
