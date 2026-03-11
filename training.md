@@ -8,9 +8,11 @@ permalink: /training/
   gap: 45px;
   font-size: 1.08em;
   font-family: sans-serif;
-  padding: 2px 0;             /* vertical padding */
-  border-bottom: 1px solid #e5e5e5; /* bottom line only */
-  margin-bottom: 15px;        /* space below the bar */
+  line-height: 1em;             /* tighten vertical spacing */
+  padding: 3px 0;               /* reduce bar height */
+  border-top: 1px solid #e5e5e5;
+  border-bottom: 1px solid #e5e5e5;
+  margin-bottom: 15px;          /* space below bar */
 }
 
 .navbar a {
@@ -20,7 +22,7 @@ permalink: /training/
 }
 
 .navbar a:hover {
-  color: #007acc;  /* subtle hover highlight */
+  color: #007acc;
 }
 </style>
 
@@ -30,7 +32,6 @@ permalink: /training/
   <a href="/home/research/">Research</a>
   <a href="/home/training/">Training</a>
 </div>
-
 
 ## Graduate School Advice
 
