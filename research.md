@@ -1,8 +1,8 @@
 <div style="display:flex; justify-content:center; gap:45px; font-size:1.08em; margin-top:5px; margin-bottom:18px; padding-bottom:10px; border-bottom:1px solid #e5e5e5; letter-spacing:0.04em;">
   <a href="https://melstrom.github.io">Home</a>
   <a href="./Melstrom%20CV.pdf">CV</a>
-  <a href="./home/research/">Research</a>
-  <a href="./home/training/">Training</a>
+  <a href="https://melstrom.github.ioresearch/">Research</a>
+  <a href="https://melstrom.github.iotraining/">Training</a>
 </div>
 
 ---
