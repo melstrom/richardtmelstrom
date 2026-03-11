@@ -2,7 +2,7 @@
 permalink: /
 ---
 
-<br>
+<div style="margin-top: 4px;"></div>
 
 <style>
 .navbar {
