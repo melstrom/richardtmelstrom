@@ -7,7 +7,6 @@
 
 ---
 title: Research
-permalink: /research/
 ---
 
 ## Selected Peer-Reviewed Publications
