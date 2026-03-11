@@ -6,10 +6,10 @@ permalink: /
 .navbar {
   display: flex;
   justify-content: center;
-  gap: 5px;
+  gap: 45px;
   font-size: 1.08em;
   font-family: sans-serif;
-  padding: 6px 0;             /* vertical padding */
+  padding: 2px 0;             /* vertical padding */
   border-bottom: 1px solid #e5e5e5; /* bottom line only */
   margin-bottom: 15px;        /* space below the bar */
 }
