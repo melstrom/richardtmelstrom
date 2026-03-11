@@ -1,11 +1,9 @@
-<style>
-header, .site-header, .top-bar {
-  display: none;
-}
-</style>
+
 ---
 permalink: /
 ---
+<br>
+
 <style>
 .navbar {
   display: flex;
